@@ -1,2 +1,2 @@
-# Insertion_sort_algorithm
+# Insertion_sort_Algorithm
 Divide and Conquer approach
